@@ -142,6 +142,19 @@ main h2 {
   opacity: 1.0;
 }
 
+/* ---------- individual design: plot ---------- */
+.plot {
+  width: 300px;
+  margin: 20px;
+  float: left;
+}
+.plot img {
+  width: 100%;
+  object-fit: cover;
+  opacity: 1.0;
+}
+
+
 /* ---------- individual design: table ---------- */
 .table {
   width: 100%;
