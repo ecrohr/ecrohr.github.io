@@ -4,6 +4,7 @@ html, body {
   font-family: Cambria, Calibri, Arial, sans-serif;
   color: #555753;
   line-height: 1.5;
+  text-align: justify;
 }
 
 /* ---------- general design: header ---------- */
