@@ -1,9 +1,9 @@
-PWD /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex
+PWD /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.tex
-OUTPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.log
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.tex
+OUTPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.log
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
@@ -82,9 +82,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.aux
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.aux
-OUTPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.aux
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.aux
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.aux
+OUTPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -99,14 +99,14 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-OUTPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-OUTPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.pdf
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+OUTPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+OUTPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.pdf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -133,9 +133,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcbx1000.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.aux
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
-INPUT /Users/rohr/ownCloud - Eric Rohr (reric)@datashare.mpcdf.mpg.de/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.aux
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
+INPUT /Users/rohr/Scripts/ecrohr.github.io/assets/img/CV_tex/RohrEric_CV.out
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
